@@ -1,0 +1,11 @@
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfo.cs
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/bin/Debug/net6.0/ClassLibrary.deps.json
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/bin/Debug/net6.0/ClassLibrary.dll
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/bin/Debug/net6.0/ClassLibrary.pdb
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/ClassLibrary.dll
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/refint/ClassLibrary.dll
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/ClassLibrary.pdb
+/Users/alexandra/Projects/Homework_Num2_Mod3/ClassLibrary/obj/Debug/net6.0/ref/ClassLibrary.dll
